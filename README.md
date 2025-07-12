@@ -1,67 +1,47 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+Hasil Deploy web Profile/Biodata : yoyonbootcamp.codeku.my.id
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+Resume Singkat
+1. Version Control System (VCS)
+Ringkasan:
+Version Control System (VCS) adalah alat yang digunakan untuk melacak dan mengelola perubahan kode dari waktu ke waktu. VCS memungkinkan beberapa orang bekerja pada proyek yang sama tanpa menimpa pekerjaan satu sama lain.
 
-## About Laravel
+Fitur Utama:
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+Pelacakan Perubahan: Mencatat setiap perubahan file, sehingga dapat dikembalikan ke versi sebelumnya jika diperlukan.
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+Kolaborasi: Memungkinkan banyak pengembang bekerja bersama secara efisien.
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+Branching & Merging: Pengembang bisa membuat cabang untuk fitur tertentu, lalu digabungkan kembali ke proyek utama.
 
-## Learning Laravel
+Riwayat & Log: Menyimpan riwayat perubahan lengkap, termasuk siapa yang mengubah dan pesan commit.
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+Contoh Alat Populer:
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+Git (yang paling banyak digunakan)
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+Subversion (SVN)
 
-## Laravel Sponsors
+Mercurial
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
+Contoh Penggunaan:
+Pengembang menggunakan Git bersama dengan platform seperti GitHub atau GitLab untuk mengelola dan berkolaborasi dalam proyek pengembangan perangkat lunak.
 
-### Premium Partners
+2. Scrum vs Kanban
+Ringkasan:
+Scrum dan Kanban adalah dua kerangka kerja (framework) Agile yang digunakan dalam manajemen proyek, terutama di bidang pengembangan perangkat lunak. Keduanya bertujuan meningkatkan efisiensi tim, namun dengan pendekatan yang berbeda.
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-- **[Lendio](https://lendio.com)**
+Perbandingan Utama:
 
-## Contributing
+Fitur	Scrum	Kanban
+Struktur	Berdasarkan iterasi (Sprint)	Alur kerja berkelanjutan (Continuous Flow)
+Peran	Ada peran tetap (Scrum Master, PO)	Tidak wajib peran khusus
+Perencanaan	Dilakukan di awal Sprint	Direncanakan sesuai kebutuhan
+Item Pekerjaan	Ditarik dalam batch tiap Sprint	Ditarik satu per satu sesuai kapasitas
+Papan Kerja	Kolom tetap (To Do, In Progress, Done)	Kolom fleksibel
+Metrik	Velocity (kecepatan tim per Sprint)	Lead time, cycle time (durasi tugas)
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+Contoh Penggunaan:
 
-## Code of Conduct
+Scrum: Cocok untuk tim yang bekerja dalam periode waktu tetap (misalnya Sprint 2 minggu).
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-"# yoyonBCMP" 
+Kanban: Cocok untuk tim support atau tim pemeliharaan dengan alur kerja yang terus-menerus.
